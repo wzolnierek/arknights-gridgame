@@ -1,5 +1,5 @@
-{
-  "char_285_medic2": {
+[
+  {
     "id": "char_285_medic2",
     "name": "Lancet-2",
     "nationId": "rhodes",
@@ -30,7 +30,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_286_cast3": {
+  {
     "id": "char_286_cast3",
     "name": "Castle-3",
     "nationId": "rhodes",
@@ -61,7 +61,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_376_therex": {
+  {
     "id": "char_376_therex",
     "name": "Thermal-EX",
     "nationId": "rhodes",
@@ -94,7 +94,7 @@
     ],
     "aliases": []
   },
-  "char_4000_jnight": {
+  {
     "id": "char_4000_jnight",
     "name": "\"Justice Knight\"",
     "nationId": "kazimierz",
@@ -127,7 +127,7 @@
     ],
     "aliases": []
   },
-  "char_4077_palico": {
+  {
     "id": "char_4077_palico",
     "name": "Terra Research Commission",
     "nationId": "rhodes",
@@ -159,7 +159,7 @@
     ],
     "aliases": []
   },
-  "char_4091_ulika": {
+  {
     "id": "char_4091_ulika",
     "name": "U-Official",
     "nationId": "rhodes",
@@ -189,7 +189,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4093_frston": {
+  {
     "id": "char_4093_frston",
     "name": "Friston-3",
     "nationId": "rhodes",
@@ -220,7 +220,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4136_phonor": {
+  {
     "id": "char_4136_phonor",
     "name": "PhonoR-0",
     "nationId": "rhodes",
@@ -253,7 +253,7 @@
     ],
     "aliases": []
   },
-  "char_4188_confes": {
+  {
     "id": "char_4188_confes",
     "name": "CONFESS-47",
     "nationId": "laterano",
@@ -286,7 +286,7 @@
     ],
     "aliases": []
   },
-  "char_4227_gallus": {
+  {
     "id": "char_4227_gallus",
     "name": "GALLUS²",
     "nationId": "rhodes",
@@ -317,7 +317,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4215_buddy": {
+  {
     "id": "char_4215_buddy",
     "name": "Rhodes Island Recon",
     "nationId": "rhodes",
@@ -348,7 +348,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_502_nblade": {
+  {
     "id": "char_502_nblade",
     "name": "Yato",
     "nationId": "rhodes",
@@ -378,7 +378,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_500_noirc": {
+  {
     "id": "char_500_noirc",
     "name": "Noir Corne",
     "nationId": "rhodes",
@@ -408,7 +408,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_503_rang": {
+  {
     "id": "char_503_rang",
     "name": "Rangers",
     "nationId": "rhodes",
@@ -438,7 +438,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_501_durin": {
+  {
     "id": "char_501_durin",
     "name": "Durin",
     "nationId": "rhodes",
@@ -468,7 +468,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_009_12fce": {
+  {
     "id": "char_009_12fce",
     "name": "12F",
     "nationId": "rhodes",
@@ -498,7 +498,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_123_fang": {
+  {
     "id": "char_123_fang",
     "name": "Fang",
     "nationId": "rhodes",
@@ -528,7 +528,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_240_wyvern": {
+  {
     "id": "char_240_wyvern",
     "name": "Vanilla",
     "nationId": "columbia",
@@ -558,7 +558,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_504_rguard": {
+  {
     "id": "char_504_rguard",
     "name": "Reserve (Melee)",
     "nationId": null,
@@ -588,7 +588,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_192_falco": {
+  {
     "id": "char_192_falco",
     "name": "Plume",
     "nationId": "laterano",
@@ -619,7 +619,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_208_melan": {
+  {
     "id": "char_208_melan",
     "name": "Melantha",
     "nationId": "rhodes",
@@ -650,7 +650,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_281_popka": {
+  {
     "id": "char_281_popka",
     "name": "Popukar",
     "nationId": "rhodes",
@@ -681,7 +681,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_209_ardign": {
+  {
     "id": "char_209_ardign",
     "name": "Cardigan",
     "nationId": "rhodes",
@@ -711,7 +711,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_122_beagle": {
+  {
     "id": "char_122_beagle",
     "name": "Beagle",
     "nationId": "rhodes",
@@ -741,7 +741,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_514_rdfend": {
+  {
     "id": "char_514_rdfend",
     "name": "Reserve (Defender)",
     "nationId": null,
@@ -771,7 +771,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_284_spot": {
+  {
     "id": "char_284_spot",
     "name": "Spot",
     "nationId": "rhodes",
@@ -802,7 +802,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_124_kroos": {
+  {
     "id": "char_124_kroos",
     "name": "Kroos",
     "nationId": "rhodes",
@@ -832,7 +832,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_211_adnach": {
+  {
     "id": "char_211_adnach",
     "name": "Adnachiel",
     "nationId": "rhodes",
@@ -862,7 +862,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_507_rsnipe": {
+  {
     "id": "char_507_rsnipe",
     "name": "Reserve (Sniper)",
     "nationId": null,
@@ -892,7 +892,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_121_lava": {
+  {
     "id": "char_121_lava",
     "name": "Lava",
     "nationId": "rhodes",
@@ -922,7 +922,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_120_hibisc": {
+  {
     "id": "char_120_hibisc",
     "name": "Hibiscus",
     "nationId": "rhodes",
@@ -952,7 +952,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_212_ansel": {
+  {
     "id": "char_212_ansel",
     "name": "Ansel",
     "nationId": "rhodes",
@@ -982,7 +982,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_506_rmedic": {
+  {
     "id": "char_506_rmedic",
     "name": "Reserve (Logistic)",
     "nationId": null,
@@ -1012,7 +1012,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_210_stward": {
+  {
     "id": "char_210_stward",
     "name": "Steward",
     "nationId": "rhodes",
@@ -1042,7 +1042,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_505_rcast": {
+  {
     "id": "char_505_rcast",
     "name": "Reserve (Caster)",
     "nationId": null,
@@ -1072,7 +1072,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_278_orchid": {
+  {
     "id": "char_278_orchid",
     "name": "Orchid",
     "nationId": "rhodes",
@@ -1104,7 +1104,7 @@
     ],
     "aliases": []
   },
-  "char_141_nights": {
+  {
     "id": "char_141_nights",
     "name": "Haze",
     "nationId": "victoria",
@@ -1137,7 +1137,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_604_ccast": {
+  {
     "id": "char_604_ccast",
     "name": "Reserve Operator - Caster",
     "nationId": null,
@@ -1167,7 +1167,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_109_fmout": {
+  {
     "id": "char_109_fmout",
     "name": "Gitano",
     "nationId": "sami",
@@ -1199,7 +1199,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_253_greyy": {
+  {
     "id": "char_253_greyy",
     "name": "Greyy",
     "nationId": "bolivar",
@@ -1234,7 +1234,7 @@
     ],
     "aliases": []
   },
-  "char_4051_akkord": {
+  {
     "id": "char_4051_akkord",
     "name": "Akkord",
     "nationId": "leithanien",
@@ -1267,7 +1267,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_328_cammou": {
+  {
     "id": "char_328_cammou",
     "name": "Click",
     "nationId": "rhodes",
@@ -1300,7 +1300,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_469_indigo": {
+  {
     "id": "char_469_indigo",
     "name": "Indigo",
     "nationId": "iberia",
@@ -1335,7 +1335,7 @@
     ],
     "aliases": []
   },
-  "char_4004_pudd": {
+  {
     "id": "char_4004_pudd",
     "name": "Pudding",
     "nationId": "columbia",
@@ -1369,7 +1369,7 @@
     ],
     "aliases": []
   },
-  "char_235_jesica": {
+  {
     "id": "char_235_jesica",
     "name": "Jessica",
     "nationId": "columbia",
@@ -1402,7 +1402,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_126_shotst": {
+  {
     "id": "char_126_shotst",
     "name": "Meteor",
     "nationId": "kazimierz",
@@ -1435,7 +1435,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_190_clour": {
+  {
     "id": "char_190_clour",
     "name": "Vermeil",
     "nationId": "siracusa",
@@ -1467,7 +1467,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_133_mm": {
+  {
     "id": "char_133_mm",
     "name": "May",
     "nationId": "victoria",
@@ -1502,7 +1502,7 @@
     ],
     "aliases": []
   },
-  "char_603_csnipe": {
+  {
     "id": "char_603_csnipe",
     "name": "Reserve Operator - Sniper",
     "nationId": null,
@@ -1532,7 +1532,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_118_yuki": {
+  {
     "id": "char_118_yuki",
     "name": "ShiraYuki",
     "nationId": "higashi",
@@ -1565,7 +1565,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_440_pinecn": {
+  {
     "id": "char_440_pinecn",
     "name": "Pinecone",
     "nationId": "columbia",
@@ -1598,7 +1598,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_302_glaze": {
+  {
     "id": "char_302_glaze",
     "name": "Ambriel",
     "nationId": "laterano",
@@ -1633,7 +1633,7 @@
     ],
     "aliases": []
   },
-  "char_366_acdrop": {
+  {
     "id": "char_366_acdrop",
     "name": "Aciddrop",
     "nationId": "columbia",
@@ -1665,7 +1665,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4062_totter": {
+  {
     "id": "char_4062_totter",
     "name": "Totter",
     "nationId": "sargon",
@@ -1697,7 +1697,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4100_caper": {
+  {
     "id": "char_4100_caper",
     "name": "Caper",
     "nationId": "bolivar",
@@ -1729,7 +1729,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_198_blackd": {
+  {
     "id": "char_198_blackd",
     "name": "Courier",
     "nationId": "kjerag",
@@ -1762,7 +1762,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_149_scave": {
+  {
     "id": "char_149_scave",
     "name": "Scavenger",
     "nationId": "rhodes",
@@ -1795,7 +1795,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_600_cpione": {
+  {
     "id": "char_600_cpione",
     "name": "Reserve Operator - Vanguard",
     "nationId": null,
@@ -1826,7 +1826,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_290_vigna": {
+  {
     "id": "char_290_vigna",
     "name": "Vigna",
     "nationId": "columbia",
@@ -1859,7 +1859,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_151_myrtle": {
+  {
     "id": "char_151_myrtle",
     "name": "Myrtle",
     "nationId": "rhodes",
@@ -1892,7 +1892,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_452_bstalk": {
+  {
     "id": "char_452_bstalk",
     "name": "Beanstalk",
     "nationId": "columbia",
@@ -1925,7 +1925,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4208_wintim": {
+  {
     "id": "char_4208_wintim",
     "name": "Snegurochka",
     "nationId": "ursus",
@@ -1962,7 +1962,7 @@
       "Снегурочка"
     ]
   },
-  "char_130_doberm": {
+  {
     "id": "char_130_doberm",
     "name": "Dobermann",
     "nationId": "rhodes",
@@ -1995,7 +1995,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_289_gyuki": {
+  {
     "id": "char_289_gyuki",
     "name": "Matoimaru",
     "nationId": "higashi",
@@ -2028,7 +2028,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_159_peacok": {
+  {
     "id": "char_159_peacok",
     "name": "Conviction",
     "nationId": "minos",
@@ -2065,7 +2065,7 @@
     ],
     "aliases": []
   },
-  "char_601_cguard": {
+  {
     "id": "char_601_cguard",
     "name": "Reserve Operator - Guard",
     "nationId": null,
@@ -2095,7 +2095,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_193_frostl": {
+  {
     "id": "char_193_frostl",
     "name": "Frostleaf",
     "nationId": "rhodes",
@@ -2130,7 +2130,7 @@
     ],
     "aliases": []
   },
-  "char_127_estell": {
+  {
     "id": "char_127_estell",
     "name": "Estelle",
     "nationId": "sargon",
@@ -2163,7 +2163,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_185_frncat": {
+  {
     "id": "char_185_frncat",
     "name": "Mousse",
     "nationId": "victoria",
@@ -2195,7 +2195,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_301_cutter": {
+  {
     "id": "char_301_cutter",
     "name": "Cutter",
     "nationId": "columbia",
@@ -2228,7 +2228,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_337_utage": {
+  {
     "id": "char_337_utage",
     "name": "Utage",
     "nationId": "higashi",
@@ -2261,7 +2261,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_271_spikes": {
+  {
     "id": "char_271_spikes",
     "name": "Arene",
     "nationId": "laterano",
@@ -2293,7 +2293,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4067_lolxh": {
+  {
     "id": "char_4067_lolxh",
     "name": "Luo Xiaohei",
     "nationId": "yan",
@@ -2327,7 +2327,7 @@
     ],
     "aliases": []
   },
-  "char_4063_quartz": {
+  {
     "id": "char_4063_quartz",
     "name": "Quartz",
     "nationId": "columbia",
@@ -2361,7 +2361,7 @@
     ],
     "aliases": []
   },
-  "char_491_humus": {
+  {
     "id": "char_491_humus",
     "name": "Humus",
     "nationId": "rhodes",
@@ -2394,7 +2394,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_445_wscoot": {
+  {
     "id": "char_445_wscoot",
     "name": "Windscoot",
     "nationId": "yan",
@@ -2426,7 +2426,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_237_gravel": {
+  {
     "id": "char_237_gravel",
     "name": "Gravel",
     "nationId": "kazimierz",
@@ -2459,7 +2459,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_607_cspec": {
+  {
     "id": "char_607_cspec",
     "name": "Reserve Operator - Specialist",
     "nationId": null,
@@ -2490,7 +2490,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_272_strong": {
+  {
     "id": "char_272_strong",
     "name": "Jaye",
     "nationId": "lungmen",
@@ -2525,7 +2525,7 @@
     ],
     "aliases": []
   },
-  "char_236_rope": {
+  {
     "id": "char_236_rope",
     "name": "Rope",
     "nationId": "lungmen",
@@ -2557,7 +2557,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_117_myrrh": {
+  {
     "id": "char_117_myrrh",
     "name": "Myrrh",
     "nationId": "rhodes",
@@ -2589,7 +2589,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_187_ccheal": {
+  {
     "id": "char_187_ccheal",
     "name": "Gavial",
     "nationId": "rhodes",
@@ -2621,7 +2621,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_298_susuro": {
+  {
     "id": "char_298_susuro",
     "name": "Sussurro",
     "nationId": "rhodes",
@@ -2653,7 +2653,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_605_cmedic": {
+  {
     "id": "char_605_cmedic",
     "name": "Reserve Operator - Medic",
     "nationId": null,
@@ -2683,7 +2683,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_181_flower": {
+  {
     "id": "char_181_flower",
     "name": "Perfumer",
     "nationId": "rhodes",
@@ -2715,7 +2715,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_385_finlpp": {
+  {
     "id": "char_385_finlpp",
     "name": "Purestream",
     "nationId": "yan",
@@ -2748,7 +2748,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4041_chnut": {
+  {
     "id": "char_4041_chnut",
     "name": "Chestnut",
     "nationId": "rhodes",
@@ -2780,7 +2780,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_199_yak": {
+  {
     "id": "char_199_yak",
     "name": "Matterhorn",
     "nationId": "kjerag",
@@ -2812,7 +2812,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_150_snakek": {
+  {
     "id": "char_150_snakek",
     "name": "Cuora",
     "nationId": "columbia",
@@ -2844,7 +2844,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_381_bubble": {
+  {
     "id": "char_381_bubble",
     "name": "Bubble",
     "nationId": "sargon",
@@ -2876,7 +2876,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_602_cdfend": {
+  {
     "id": "char_602_cdfend",
     "name": "Reserve Operator - Defender",
     "nationId": null,
@@ -2906,7 +2906,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4130_luton": {
+  {
     "id": "char_4130_luton",
     "name": "Lutonada",
     "nationId": "bolivar",
@@ -2939,7 +2939,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_196_sunbr": {
+  {
     "id": "char_196_sunbr",
     "name": "Gummy",
     "nationId": "ursus",
@@ -2974,7 +2974,7 @@
       "Гум"
     ]
   },
-  "char_260_durnar": {
+  {
     "id": "char_260_durnar",
     "name": "Dur-nar",
     "nationId": "rhodes",
@@ -3007,7 +3007,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_110_deepcl": {
+  {
     "id": "char_110_deepcl",
     "name": "Deepcolor",
     "nationId": "egir",
@@ -3039,7 +3039,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_183_skgoat": {
+  {
     "id": "char_183_skgoat",
     "name": "Earthspirit",
     "nationId": "leithanien",
@@ -3073,7 +3073,7 @@
     ],
     "aliases": []
   },
-  "char_258_podego": {
+  {
     "id": "char_258_podego",
     "name": "Podenco",
     "nationId": "rhodes",
@@ -3109,7 +3109,7 @@
     ],
     "aliases": []
   },
-  "char_606_csuppo": {
+  {
     "id": "char_606_csuppo",
     "name": "Reserve Operator - Supporter",
     "nationId": null,
@@ -3141,7 +3141,7 @@
     ],
     "aliases": []
   },
-  "char_484_robrta": {
+  {
     "id": "char_484_robrta",
     "name": "Roberta",
     "nationId": "columbia",
@@ -3174,7 +3174,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_616_pithst": {
+  {
     "id": "char_616_pithst",
     "name": "Alliance/Supportive Opertator",
     "nationId": null,
@@ -3206,7 +3206,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_355_ethan": {
+  {
     "id": "char_355_ethan",
     "name": "Ethan",
     "nationId": "rhodes",
@@ -3241,7 +3241,7 @@
     ],
     "aliases": []
   },
-  "char_277_sqrrel": {
+  {
     "id": "char_277_sqrrel",
     "name": "Shaw",
     "nationId": "lungmen",
@@ -3273,7 +3273,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4107_vrdant": {
+  {
     "id": "char_4107_vrdant",
     "name": "Verdant",
     "nationId": "victoria",
@@ -3306,7 +3306,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4165_ctrail": {
+  {
     "id": "char_4165_ctrail",
     "name": "Contrail",
     "nationId": "columbia",
@@ -3337,7 +3337,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_128_plosis": {
+  {
     "id": "char_128_plosis",
     "name": "Ptilopsis",
     "nationId": "columbia",
@@ -3370,7 +3370,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_275_breeze": {
+  {
     "id": "char_275_breeze",
     "name": "Breeze",
     "nationId": "victoria",
@@ -3403,7 +3403,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4163_rosesa": {
+  {
     "id": "char_4163_rosesa",
     "name": "Rose Salt",
     "nationId": "iberia",
@@ -3436,7 +3436,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_115_headbr": {
+  {
     "id": "char_115_headbr",
     "name": "Zima",
     "nationId": "ursus",
@@ -3471,7 +3471,7 @@
       "Зима"
     ]
   },
-  "char_102_texas": {
+  {
     "id": "char_102_texas",
     "name": "Texas",
     "nationId": "lungmen",
@@ -3504,7 +3504,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_349_chiave": {
+  {
     "id": "char_349_chiave",
     "name": "Chiave",
     "nationId": "siracusa",
@@ -3537,7 +3537,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_488_buildr": {
+  {
     "id": "char_488_buildr",
     "name": "Poncirus",
     "nationId": "columbia",
@@ -3570,7 +3570,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_513_apionr": {
+  {
     "id": "char_513_apionr",
     "name": "Tulip",
     "nationId": null,
@@ -3601,7 +3601,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4023_rfalcn": {
+  {
     "id": "char_4023_rfalcn",
     "name": "Kestrel",
     "nationId": "sargon",
@@ -3634,7 +3634,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4199_makiri": {
+  {
     "id": "char_4199_makiri",
     "name": "Matsukiri",
     "nationId": "higashi",
@@ -3665,7 +3665,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_261_sddrag": {
+  {
     "id": "char_261_sddrag",
     "name": "Reed",
     "nationId": "victoria",
@@ -3698,7 +3698,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_496_wildmn": {
+  {
     "id": "char_496_wildmn",
     "name": "Wild Mane",
     "nationId": "kazimierz",
@@ -3731,7 +3731,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1036_fang2": {
+  {
     "id": "char_1036_fang2",
     "name": "Fang the Fire-sharpened",
     "nationId": "rhodes",
@@ -3764,7 +3764,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_401_elysm": {
+  {
     "id": "char_401_elysm",
     "name": "Elysium",
     "nationId": "rhodes",
@@ -3797,7 +3797,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4119_wanqin": {
+  {
     "id": "char_4119_wanqin",
     "name": "Wanqing",
     "nationId": "yan",
@@ -3830,7 +3830,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_476_blkngt": {
+  {
     "id": "char_476_blkngt",
     "name": "Blacknight",
     "nationId": "rim",
@@ -3865,7 +3865,7 @@
     ],
     "aliases": []
   },
-  "char_4147_mitm": {
+  {
     "id": "char_4147_mitm",
     "name": "Mitm",
     "nationId": "rhodes",
@@ -3898,7 +3898,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_497_ctable": {
+  {
     "id": "char_497_ctable",
     "name": "Cantabile",
     "nationId": "rhodes",
@@ -3931,7 +3931,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4017_puzzle": {
+  {
     "id": "char_4017_puzzle",
     "name": "Puzzle",
     "nationId": "victoria",
@@ -3964,7 +3964,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4144_chilc": {
+  {
     "id": "char_4144_chilc",
     "name": "Chilchuck",
     "nationId": null,
@@ -3997,7 +3997,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4052_surfer": {
+  {
     "id": "char_4052_surfer",
     "name": "Surfer",
     "nationId": "columbia",
@@ -4032,7 +4032,7 @@
     ],
     "aliases": []
   },
-  "char_308_swire": {
+  {
     "id": "char_308_swire",
     "name": "Swire",
     "nationId": "lungmen",
@@ -4065,7 +4065,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_265_sophia": {
+  {
     "id": "char_265_sophia",
     "name": "Whislash",
     "nationId": "kazimierz",
@@ -4098,7 +4098,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4106_bryota": {
+  {
     "id": "char_4106_bryota",
     "name": "Bryophyta",
     "nationId": "columbia",
@@ -4131,7 +4131,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4125_rdoc": {
+  {
     "id": "char_4125_rdoc",
     "name": "Doc",
     "nationId": null,
@@ -4164,7 +4164,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_106_franka": {
+  {
     "id": "char_106_franka",
     "name": "Franka",
     "nationId": "columbia",
@@ -4197,7 +4197,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_131_flameb": {
+  {
     "id": "char_131_flameb",
     "name": "Flamebringer",
     "nationId": "rhodes",
@@ -4230,7 +4230,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_154_morgan": {
+  {
     "id": "char_154_morgan",
     "name": "Morgan",
     "nationId": "victoria",
@@ -4262,7 +4262,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_508_aguard": {
+  {
     "id": "char_508_aguard",
     "name": "Sharp",
     "nationId": null,
@@ -4293,7 +4293,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4142_laios": {
+  {
     "id": "char_4142_laios",
     "name": "Laios",
     "nationId": null,
@@ -4328,7 +4328,7 @@
     ],
     "aliases": []
   },
-  "char_155_tiger": {
+  {
     "id": "char_155_tiger",
     "name": "Indra",
     "nationId": "victoria",
@@ -4361,7 +4361,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_415_flint": {
+  {
     "id": "char_415_flint",
     "name": "Flint",
     "nationId": "sargon",
@@ -4395,7 +4395,7 @@
     ],
     "aliases": []
   },
-  "char_157_dagda": {
+  {
     "id": "char_157_dagda",
     "name": "Dagda",
     "nationId": "victoria",
@@ -4428,7 +4428,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_140_whitew": {
+  {
     "id": "char_140_whitew",
     "name": "Lappland",
     "nationId": "siracusa",
@@ -4464,7 +4464,7 @@
     ],
     "aliases": []
   },
-  "char_294_ayer": {
+  {
     "id": "char_294_ayer",
     "name": "Ayerscarpe",
     "nationId": "rim",
@@ -4499,7 +4499,7 @@
     ],
     "aliases": []
   },
-  "char_194_leto": {
+  {
     "id": "char_194_leto",
     "name": "Leto",
     "nationId": "ursus",
@@ -4534,7 +4534,7 @@
       "Лето"
     ]
   },
-  "char_4083_chimes": {
+  {
     "id": "char_4083_chimes",
     "name": "Wind Chimes",
     "nationId": "yan",
@@ -4566,7 +4566,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_252_bibeak": {
+  {
     "id": "char_252_bibeak",
     "name": "Bibeak",
     "nationId": "sami",
@@ -4599,7 +4599,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_459_tachak": {
+  {
     "id": "char_459_tachak",
     "name": "Tachanka",
     "nationId": null,
@@ -4632,7 +4632,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_143_ghost": {
+  {
     "id": "char_143_ghost",
     "name": "Specter",
     "nationId": "egir",
@@ -4665,7 +4665,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_356_broca": {
+  {
     "id": "char_356_broca",
     "name": "Broca",
     "nationId": "siracusa",
@@ -4700,7 +4700,7 @@
     ],
     "aliases": []
   },
-  "char_4126_fuze": {
+  {
     "id": "char_4126_fuze",
     "name": "Fuze",
     "nationId": null,
@@ -4733,7 +4733,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4166_varkis": {
+  {
     "id": "char_4166_varkis",
     "name": "Varkáris",
     "nationId": "minos",
@@ -4766,7 +4766,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_274_astesi": {
+  {
     "id": "char_274_astesi",
     "name": "Astesia",
     "nationId": "columbia",
@@ -4799,7 +4799,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_333_sidero": {
+  {
     "id": "char_333_sidero",
     "name": "Sideroca",
     "nationId": "minos",
@@ -4832,7 +4832,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_475_akafyu": {
+  {
     "id": "char_475_akafyu",
     "name": "Akafuyu",
     "nationId": "higashi",
@@ -4865,7 +4865,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1030_noirc2": {
+  {
     "id": "char_1030_noirc2",
     "name": "Rathalos S Noir Corne",
     "nationId": "rhodes",
@@ -4898,7 +4898,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_421_crow": {
+  {
     "id": "char_421_crow",
     "name": "La Pluma",
     "nationId": "bolivar",
@@ -4930,7 +4930,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4066_highmo": {
+  {
     "id": "char_4066_highmo",
     "name": "Highmore",
     "nationId": "iberia",
@@ -4962,7 +4962,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_486_takila": {
+  {
     "id": "char_486_takila",
     "name": "Tequila",
     "nationId": "bolivar",
@@ -4994,7 +4994,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4131_odda": {
+  {
     "id": "char_4131_odda",
     "name": "Odda",
     "nationId": "rhodes",
@@ -5029,7 +5029,7 @@
     ],
     "aliases": []
   },
-  "char_4187_graceb": {
+  {
     "id": "char_4187_graceb",
     "name": "Gracebearer",
     "nationId": "bolivar",
@@ -5060,7 +5060,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4185_amoris": {
+  {
     "id": "char_4185_amoris",
     "name": "Yūtenji Nyamu",
     "nationId": null,
@@ -5096,7 +5096,7 @@
     ],
     "aliases": []
   },
-  "char_394_hadiya": {
+  {
     "id": "char_394_hadiya",
     "name": "Hadiya",
     "nationId": "sargon",
@@ -5128,7 +5128,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1049_catap2": {
+  {
     "id": "char_1049_catap2",
     "name": "Zinogre S Catapult",
     "nationId": "rhodes",
@@ -5162,7 +5162,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_129_bluep": {
+  {
     "id": "char_129_bluep",
     "name": "Blue Poison",
     "nationId": "iberia",
@@ -5194,7 +5194,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_204_platnm": {
+  {
     "id": "char_204_platnm",
     "name": "Platinum",
     "nationId": "kazimierz",
@@ -5226,7 +5226,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_367_swllow": {
+  {
     "id": "char_367_swllow",
     "name": "GreyThroat",
     "nationId": "rhodes",
@@ -5258,7 +5258,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_511_asnipe": {
+  {
     "id": "char_511_asnipe",
     "name": "Stormeye",
     "nationId": null,
@@ -5288,7 +5288,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_365_aprl": {
+  {
     "id": "char_365_aprl",
     "name": "April",
     "nationId": "rim",
@@ -5320,7 +5320,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1021_kroos2": {
+  {
     "id": "char_1021_kroos2",
     "name": "Kroos the Keen Glint",
     "nationId": "rhodes",
@@ -5352,7 +5352,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_498_inside": {
+  {
     "id": "char_498_inside",
     "name": "Insider",
     "nationId": "laterano",
@@ -5384,7 +5384,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_219_meteo": {
+  {
     "id": "char_219_meteo",
     "name": "Meteorite",
     "nationId": "rhodes",
@@ -5417,7 +5417,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_379_sesa": {
+  {
     "id": "char_379_sesa",
     "name": "Sesa",
     "nationId": "sargon",
@@ -5452,7 +5452,7 @@
     ],
     "aliases": []
   },
-  "char_4078_bdhkgt": {
+  {
     "id": "char_4078_bdhkgt",
     "name": "Jieyun",
     "nationId": "yan",
@@ -5485,7 +5485,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_279_excu": {
+  {
     "id": "char_279_excu",
     "name": "Executor",
     "nationId": "laterano",
@@ -5517,7 +5517,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_346_aosta": {
+  {
     "id": "char_346_aosta",
     "name": "Aosta",
     "nationId": "siracusa",
@@ -5551,7 +5551,7 @@
     ],
     "aliases": []
   },
-  "char_4203_kichi": {
+  {
     "id": "char_4203_kichi",
     "name": "Kichisei",
     "nationId": "higashi",
@@ -5586,7 +5586,7 @@
     ],
     "aliases": []
   },
-  "char_4213_skybx": {
+  {
     "id": "char_4213_skybx",
     "name": "Skybox",
     "nationId": "columbia",
@@ -5618,7 +5618,7 @@
     ],
     "aliases": []
   },
-  "char_002_amiya": {
+  {
     "id": "char_002_amiya",
     "name": "Amiya",
     "nationId": "rhodes",
@@ -5651,7 +5651,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_405_absin": {
+  {
     "id": "char_405_absin",
     "name": "Absinthe",
     "nationId": "ursus",
@@ -5683,7 +5683,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_411_tomimi": {
+  {
     "id": "char_411_tomimi",
     "name": "Tomimi",
     "nationId": "sargon",
@@ -5716,7 +5716,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_466_qanik": {
+  {
     "id": "char_466_qanik",
     "name": "Qanipalaat",
     "nationId": "sami",
@@ -5752,7 +5752,7 @@
     ],
     "aliases": []
   },
-  "char_166_skfire": {
+  {
     "id": "char_166_skfire",
     "name": "Skyfire",
     "nationId": "victoria",
@@ -5787,7 +5787,7 @@
     ],
     "aliases": []
   },
-  "char_509_acast": {
+  {
     "id": "char_509_acast",
     "name": "Pith",
     "nationId": null,
@@ -5817,7 +5817,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_306_leizi": {
+  {
     "id": "char_306_leizi",
     "name": "Leizi",
     "nationId": "yan",
@@ -5851,7 +5851,7 @@
     ],
     "aliases": []
   },
-  "char_135_halo": {
+  {
     "id": "char_135_halo",
     "name": "Astgenne",
     "nationId": "columbia",
@@ -5885,7 +5885,7 @@
     ],
     "aliases": []
   },
-  "char_344_beewax": {
+  {
     "id": "char_344_beewax",
     "name": "Beeswax",
     "nationId": "sargon",
@@ -5918,7 +5918,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_373_lionhd": {
+  {
     "id": "char_373_lionhd",
     "name": "Leonhardt",
     "nationId": "rim",
@@ -5951,7 +5951,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_341_sntlla": {
+  {
     "id": "char_341_sntlla",
     "name": "Santalla",
     "nationId": "sami",
@@ -5984,7 +5984,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4031_liesel": {
+  {
     "id": "char_4031_liesel",
     "name": "Ripresa",
     "nationId": "siracusa",
@@ -6017,7 +6017,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_388_mint": {
+  {
     "id": "char_388_mint",
     "name": "Mint",
     "nationId": "victoria",
@@ -6050,7 +6050,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_338_iris": {
+  {
     "id": "char_338_iris",
     "name": "Iris",
     "nationId": "victoria",
@@ -6084,7 +6084,7 @@
     ],
     "aliases": []
   },
-  "char_297_hamoni": {
+  {
     "id": "char_297_hamoni",
     "name": "Harmonie",
     "nationId": "victoria",
@@ -6116,7 +6116,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4110_delphn": {
+  {
     "id": "char_4110_delphn",
     "name": "Delphine",
     "nationId": "victoria",
@@ -6148,7 +6148,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1011_lava2": {
+  {
     "id": "char_1011_lava2",
     "name": "Lava the Purgatory",
     "nationId": "rhodes",
@@ -6180,7 +6180,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_489_serum": {
+  {
     "id": "char_489_serum",
     "name": "Corroserum",
     "nationId": "columbia",
@@ -6215,7 +6215,7 @@
     ],
     "aliases": []
   },
-  "char_446_aroma": {
+  {
     "id": "char_446_aroma",
     "name": "Aroma",
     "nationId": "siracusa",
@@ -6250,7 +6250,7 @@
     ],
     "aliases": []
   },
-  "char_4013_kjera": {
+  {
     "id": "char_4013_kjera",
     "name": "Kjera",
     "nationId": "kjerag",
@@ -6283,7 +6283,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4040_rockr": {
+  {
     "id": "char_4040_rockr",
     "name": "Rockrock",
     "nationId": "victoria",
@@ -6315,7 +6315,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4054_malist": {
+  {
     "id": "char_4054_malist",
     "name": "Minimalist",
     "nationId": "sargon",
@@ -6347,7 +6347,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_499_kaitou": {
+  {
     "id": "char_499_kaitou",
     "name": "Diamante",
     "nationId": "leithanien",
@@ -6380,7 +6380,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4081_warmy": {
+  {
     "id": "char_4081_warmy",
     "name": "Warmy",
     "nationId": "rim",
@@ -6413,7 +6413,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4198_christ": {
+  {
     "id": "char_4198_christ",
     "name": "Miss.Christine",
     "nationId": "victoria",
@@ -6446,7 +6446,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4164_tecno": {
+  {
     "id": "char_4164_tecno",
     "name": "Tecno",
     "nationId": "bolivar",
@@ -6478,7 +6478,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_242_otter": {
+  {
     "id": "char_242_otter",
     "name": "Mayer",
     "nationId": "columbia",
@@ -6511,7 +6511,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_336_folivo": {
+  {
     "id": "char_336_folivo",
     "name": "Scene",
     "nationId": "sargon",
@@ -6544,7 +6544,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4140_lasher": {
+  {
     "id": "char_4140_lasher",
     "name": "Sand Reckoner",
     "nationId": "sargon",
@@ -6579,7 +6579,7 @@
     ],
     "aliases": []
   },
-  "char_108_silent": {
+  {
     "id": "char_108_silent",
     "name": "Silence",
     "nationId": "columbia",
@@ -6611,7 +6611,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_171_bldsk": {
+  {
     "id": "char_171_bldsk",
     "name": "Warfarin",
     "nationId": "rhodes",
@@ -6644,7 +6644,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_345_folnic": {
+  {
     "id": "char_345_folnic",
     "name": "Folinic",
     "nationId": "rhodes",
@@ -6677,7 +6677,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_510_amedic": {
+  {
     "id": "char_510_amedic",
     "name": "Touch",
     "nationId": null,
@@ -6707,7 +6707,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4196_reckpr": {
+  {
     "id": "char_4196_reckpr",
     "name": "Record Keeper",
     "nationId": "yan",
@@ -6739,7 +6739,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_348_ceylon": {
+  {
     "id": "char_348_ceylon",
     "name": "Ceylon",
     "nationId": "columbia",
@@ -6771,7 +6771,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_436_whispr": {
+  {
     "id": "char_436_whispr",
     "name": "Whisperain",
     "nationId": "iberia",
@@ -6803,7 +6803,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4173_nowell": {
+  {
     "id": "char_4173_nowell",
     "name": "Nowell",
     "nationId": "victoria",
@@ -6835,7 +6835,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_402_tuye": {
+  {
     "id": "char_402_tuye",
     "name": "Tuye",
     "nationId": "sargon",
@@ -6867,7 +6867,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_473_mberry": {
+  {
     "id": "char_473_mberry",
     "name": "Mulberry",
     "nationId": "yan",
@@ -6899,7 +6899,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_449_glider": {
+  {
     "id": "char_449_glider",
     "name": "Honeyberry",
     "nationId": "rim",
@@ -6931,7 +6931,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4114_harold": {
+  {
     "id": "char_4114_harold",
     "name": "Harold",
     "nationId": "victoria",
@@ -6963,7 +6963,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1024_hbisc2": {
+  {
     "id": "char_1024_hbisc2",
     "name": "Hibiscus the Purifier",
     "nationId": "rhodes",
@@ -6997,7 +6997,7 @@
     ],
     "aliases": []
   },
-  "char_494_vendla": {
+  {
     "id": "char_494_vendla",
     "name": "Vendela",
     "nationId": "victoria",
@@ -7029,7 +7029,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4071_peper": {
+  {
     "id": "char_4071_peper",
     "name": "Paprika",
     "nationId": "rhodes",
@@ -7061,7 +7061,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4139_papyrs": {
+  {
     "id": "char_4139_papyrs",
     "name": "Papyrus",
     "nationId": "sargon",
@@ -7093,7 +7093,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4224_turdus": {
+  {
     "id": "char_4224_turdus",
     "name": "Ukusik",
     "nationId": "ursus",
@@ -7127,7 +7127,7 @@
       "Укусик"
     ]
   },
-  "char_4222_taraxa": {
+  {
     "id": "char_4222_taraxa",
     "name": "Taraxacum",
     "nationId": "yan",
@@ -7157,7 +7157,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_148_nearl": {
+  {
     "id": "char_148_nearl",
     "name": "Nearl",
     "nationId": null,
@@ -7190,7 +7190,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_226_hmau": {
+  {
     "id": "char_226_hmau",
     "name": "Hung",
     "nationId": "lungmen",
@@ -7223,7 +7223,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4109_baslin": {
+  {
     "id": "char_4109_baslin",
     "name": "Bassline",
     "nationId": "leithanien",
@@ -7256,7 +7256,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4143_sensi": {
+  {
     "id": "char_4143_sensi",
     "name": "Senshi",
     "nationId": null,
@@ -7289,7 +7289,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_144_red": {
+  {
     "id": "char_144_red",
     "name": "Projekt Red",
     "nationId": "rhodes",
@@ -7322,7 +7322,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_243_waaifu": {
+  {
     "id": "char_243_waaifu",
     "name": "Waai Fu",
     "nationId": "lungmen",
@@ -7357,7 +7357,7 @@
     ],
     "aliases": []
   },
-  "char_214_kafka": {
+  {
     "id": "char_214_kafka",
     "name": "Kafka",
     "nationId": "columbia",
@@ -7392,7 +7392,7 @@
     ],
     "aliases": []
   },
-  "char_455_nothin": {
+  {
     "id": "char_455_nothin",
     "name": "Mr.Nothing",
     "nationId": "yan",
@@ -7425,7 +7425,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4155_talr": {
+  {
     "id": "char_4155_talr",
     "name": "Figurino",
     "nationId": "siracusa",
@@ -7460,7 +7460,7 @@
     ],
     "aliases": []
   },
-  "char_107_liskam": {
+  {
     "id": "char_107_liskam",
     "name": "Liskarm",
     "nationId": "columbia",
@@ -7493,7 +7493,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4137_udflow": {
+  {
     "id": "char_4137_udflow",
     "name": "Underflow",
     "nationId": "egir",
@@ -7529,7 +7529,7 @@
     ],
     "aliases": []
   },
-  "char_201_moeshd": {
+  {
     "id": "char_201_moeshd",
     "name": "Croissant",
     "nationId": "lungmen",
@@ -7562,7 +7562,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_325_bison": {
+  {
     "id": "char_325_bison",
     "name": "Bison",
     "nationId": "lungmen",
@@ -7594,7 +7594,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_163_hpsts": {
+  {
     "id": "char_163_hpsts",
     "name": "Vulcan",
     "nationId": "minos",
@@ -7628,7 +7628,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4207_branch": {
+  {
     "id": "char_4207_branch",
     "name": "Vetochki",
     "nationId": "ursus",
@@ -7665,7 +7665,7 @@
       "Веточки"
     ]
   },
-  "char_378_asbest": {
+  {
     "id": "char_378_asbest",
     "name": "Asbestos",
     "nationId": "rim",
@@ -7698,7 +7698,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_512_aprot": {
+  {
     "id": "char_512_aprot",
     "name": "Shalem",
     "nationId": null,
@@ -7729,7 +7729,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4025_aprot2": {
+  {
     "id": "char_4025_aprot2",
     "name": "Shalem",
     "nationId": "victoria",
@@ -7762,7 +7762,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4047_pianst": {
+  {
     "id": "char_4047_pianst",
     "name": "Czerny",
     "nationId": "leithanien",
@@ -7795,7 +7795,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_457_blitz": {
+  {
     "id": "char_457_blitz",
     "name": "Blitz",
     "nationId": null,
@@ -7830,7 +7830,7 @@
     ],
     "aliases": []
   },
-  "char_304_zebra": {
+  {
     "id": "char_304_zebra",
     "name": "Heavyrain",
     "nationId": "rhodes",
@@ -7863,7 +7863,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_431_ashlok": {
+  {
     "id": "char_431_ashlok",
     "name": "Ashlock",
     "nationId": "kazimierz",
@@ -7896,7 +7896,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_493_firwhl": {
+  {
     "id": "char_493_firwhl",
     "name": "Firewhistle",
     "nationId": "rim",
@@ -7929,7 +7929,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_422_aurora": {
+  {
     "id": "char_422_aurora",
     "name": "Aurora",
     "nationId": "kjerag",
@@ -7962,7 +7962,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_464_cement": {
+  {
     "id": "char_464_cement",
     "name": "Cement",
     "nationId": "rim",
@@ -7994,7 +7994,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4148_philae": {
+  {
     "id": "char_4148_philae",
     "name": "Philae",
     "nationId": "sargon",
@@ -8027,7 +8027,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4225_tanya": {
+  {
     "id": "char_4225_tanya",
     "name": "Crackborne",
     "nationId": "ursus",
@@ -8060,7 +8060,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_145_prove": {
+  {
     "id": "char_145_prove",
     "name": "Provence",
     "nationId": "siracusa",
@@ -8092,7 +8092,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4006_melnte": {
+  {
     "id": "char_4006_melnte",
     "name": "Melanite",
     "nationId": "columbia",
@@ -8125,7 +8125,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_158_milu": {
+  {
     "id": "char_158_milu",
     "name": "Firewatch",
     "nationId": "rhodes",
@@ -8158,7 +8158,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_218_cuttle": {
+  {
     "id": "char_218_cuttle",
     "name": "Andreana",
     "nationId": "egir",
@@ -8191,7 +8191,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4014_lunacu": {
+  {
     "id": "char_4014_lunacu",
     "name": "Lunacub",
     "nationId": "siracusa",
@@ -8224,7 +8224,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_363_toddi": {
+  {
     "id": "char_363_toddi",
     "name": "Toddifons",
     "nationId": "victoria",
@@ -8256,7 +8256,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4043_erato": {
+  {
     "id": "char_4043_erato",
     "name": "Erato",
     "nationId": "minos",
@@ -8291,7 +8291,7 @@
     ],
     "aliases": []
   },
-  "char_4221_ju": {
+  {
     "id": "char_4221_ju",
     "name": "Ju",
     "nationId": "yan",
@@ -8323,7 +8323,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1027_greyy2": {
+  {
     "id": "char_1027_greyy2",
     "name": "Greyy the Lightningbearer",
     "nationId": "rhodes",
@@ -8358,7 +8358,7 @@
     ],
     "aliases": []
   },
-  "char_4104_coldst": {
+  {
     "id": "char_4104_coldst",
     "name": "Coldshot",
     "nationId": "columbia",
@@ -8392,7 +8392,7 @@
     ],
     "aliases": []
   },
-  "char_4211_snhunt": {
+  {
     "id": "char_4211_snhunt",
     "name": "Snow Hunter",
     "nationId": "kjerag",
@@ -8425,7 +8425,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4177_brigid": {
+  {
     "id": "char_4177_brigid",
     "name": "Brigid",
     "nationId": "victoria",
@@ -8459,7 +8459,7 @@
     ],
     "aliases": []
   },
-  "char_4015_spuria": {
+  {
     "id": "char_4015_spuria",
     "name": "Spuria",
     "nationId": "laterano",
@@ -8492,7 +8492,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_173_slchan": {
+  {
     "id": "char_173_slchan",
     "name": "Cliffheart",
     "nationId": "kjerag",
@@ -8525,7 +8525,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_383_snsant": {
+  {
     "id": "char_383_snsant",
     "name": "Snowsant",
     "nationId": "lungmen",
@@ -8561,7 +8561,7 @@
     ],
     "aliases": []
   },
-  "char_4105_almond": {
+  {
     "id": "char_4105_almond",
     "name": "Almond",
     "nationId": "columbia",
@@ -8595,7 +8595,7 @@
     ],
     "aliases": []
   },
-  "char_174_slbell": {
+  {
     "id": "char_174_slbell",
     "name": "Pramanix",
     "nationId": "kjerag",
@@ -8629,7 +8629,7 @@
     ],
     "aliases": []
   },
-  "char_254_vodfox": {
+  {
     "id": "char_254_vodfox",
     "name": "Shamare",
     "nationId": "siracusa",
@@ -8663,7 +8663,7 @@
     ],
     "aliases": []
   },
-  "char_4079_haini": {
+  {
     "id": "char_4079_haini",
     "name": "Lucilla",
     "nationId": "egir",
@@ -8697,7 +8697,7 @@
     ],
     "aliases": []
   },
-  "char_195_glassb": {
+  {
     "id": "char_195_glassb",
     "name": "Istina",
     "nationId": "ursus",
@@ -8734,7 +8734,7 @@
       "Истина"
     ]
   },
-  "char_326_glacus": {
+  {
     "id": "char_326_glacus",
     "name": "Glaucus",
     "nationId": "iberia",
@@ -8770,7 +8770,7 @@
     ],
     "aliases": []
   },
-  "char_4032_provs": {
+  {
     "id": "char_4032_provs",
     "name": "Proviso",
     "nationId": "kazimierz",
@@ -8806,7 +8806,7 @@
     ],
     "aliases": []
   },
-  "char_4122_grabds": {
+  {
     "id": "char_4122_grabds",
     "name": "Grain Buds",
     "nationId": "yan",
@@ -8842,7 +8842,7 @@
     ],
     "aliases": []
   },
-  "char_433_windft": {
+  {
     "id": "char_433_windft",
     "name": "Windflit",
     "nationId": "columbia",
@@ -8875,7 +8875,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4162_cathy": {
+  {
     "id": "char_4162_cathy",
     "name": "Catherine",
     "nationId": "victoria",
@@ -8908,7 +8908,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4178_alanna": {
+  {
     "id": "char_4178_alanna",
     "name": "Alanna",
     "nationId": "rim",
@@ -8941,7 +8941,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_101_sora": {
+  {
     "id": "char_101_sora",
     "name": "Sora",
     "nationId": "lungmen",
@@ -8976,7 +8976,7 @@
     ],
     "aliases": []
   },
-  "char_4045_heidi": {
+  {
     "id": "char_4045_heidi",
     "name": "Heidi",
     "nationId": "victoria",
@@ -9009,7 +9009,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4184_dolris": {
+  {
     "id": "char_4184_dolris",
     "name": "Misumi Uika",
     "nationId": null,
@@ -9042,7 +9042,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_343_tknogi": {
+  {
     "id": "char_343_tknogi",
     "name": "Tsukinogi",
     "nationId": "higashi",
@@ -9075,7 +9075,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4019_ncdeer": {
+  {
     "id": "char_4019_ncdeer",
     "name": "Nine-Colored Deer",
     "nationId": "yan",
@@ -9108,7 +9108,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_492_quercu": {
+  {
     "id": "char_492_quercu",
     "name": "Quercus",
     "nationId": "rhodes",
@@ -9141,7 +9141,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4172_xingzh": {
+  {
     "id": "char_4172_xingzh",
     "name": "Xingzhu",
     "nationId": "yan",
@@ -9174,7 +9174,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1022_flwr2": {
+  {
     "id": "char_1022_flwr2",
     "name": "Perfumer the Distilled",
     "nationId": "rhodes",
@@ -9207,7 +9207,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4102_threye": {
+  {
     "id": "char_4102_threye",
     "name": "Valarqvin",
     "nationId": "sami",
@@ -9239,7 +9239,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_487_bobb": {
+  {
     "id": "char_487_bobb",
     "name": "Bobbing",
     "nationId": "columbia",
@@ -9271,7 +9271,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4223_botany": {
+  {
     "id": "char_4223_botany",
     "name": "Botani",
     "nationId": "ursus",
@@ -9305,7 +9305,7 @@
       "Ботани"
     ]
   },
-  "char_4234_pedro": {
+  {
     "id": "char_4234_pedro",
     "name": "Pedro",
     "nationId": "bolivar",
@@ -9336,7 +9336,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_215_mantic": {
+  {
     "id": "char_215_mantic",
     "name": "Manticore",
     "nationId": "sargon",
@@ -9369,7 +9369,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_478_kirara": {
+  {
     "id": "char_478_kirara",
     "name": "Kirara",
     "nationId": "higashi",
@@ -9402,7 +9402,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4186_tmoris": {
+  {
     "id": "char_4186_tmoris",
     "name": "Yahata Umiri",
     "nationId": null,
@@ -9437,7 +9437,7 @@
     ],
     "aliases": []
   },
-  "char_241_panda": {
+  {
     "id": "char_241_panda",
     "name": "FEater",
     "nationId": "lungmen",
@@ -9470,7 +9470,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4036_forcer": {
+  {
     "id": "char_4036_forcer",
     "name": "Enforcer",
     "nationId": "laterano",
@@ -9503,7 +9503,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_451_robin": {
+  {
     "id": "char_451_robin",
     "name": "Robin",
     "nationId": "columbia",
@@ -9538,7 +9538,7 @@
     ],
     "aliases": []
   },
-  "char_458_rfrost": {
+  {
     "id": "char_458_rfrost",
     "name": "Frost",
     "nationId": null,
@@ -9573,7 +9573,7 @@
     ],
     "aliases": []
   },
-  "char_4171_wulfen": {
+  {
     "id": "char_4171_wulfen",
     "name": "Wulfenite",
     "nationId": "sargon",
@@ -9606,7 +9606,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_369_bena": {
+  {
     "id": "char_369_bena",
     "name": "Bena",
     "nationId": "victoria",
@@ -9639,7 +9639,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4016_kazema": {
+  {
     "id": "char_4016_kazema",
     "name": "Kazemaru",
     "nationId": "higashi",
@@ -9672,7 +9672,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4124_iana": {
+  {
     "id": "char_4124_iana",
     "name": "Iana",
     "nationId": null,
@@ -9707,7 +9707,7 @@
     ],
     "aliases": []
   },
-  "char_4183_mortis": {
+  {
     "id": "char_4183_mortis",
     "name": "Wakaba Mutsumi",
     "nationId": null,
@@ -9740,7 +9740,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4151_tinman": {
+  {
     "id": "char_4151_tinman",
     "name": "Tin Man",
     "nationId": "columbia",
@@ -9773,7 +9773,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4191_tippi": {
+  {
     "id": "char_4191_tippi",
     "name": "Tippi",
     "nationId": "columbia",
@@ -9804,7 +9804,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_103_angel": {
+  {
     "id": "char_103_angel",
     "name": "Exusiai",
     "nationId": "lungmen",
@@ -9837,7 +9837,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_332_archet": {
+  {
     "id": "char_332_archet",
     "name": "Archetto",
     "nationId": "laterano",
@@ -9871,7 +9871,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_456_ash": {
+  {
     "id": "char_456_ash",
     "name": "Ash",
     "nationId": null,
@@ -9904,7 +9904,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_611_acnipe": {
+  {
     "id": "char_611_acnipe",
     "name": "Stormeye",
     "nationId": null,
@@ -9936,7 +9936,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_340_shwaz": {
+  {
     "id": "char_340_shwaz",
     "name": "Schwarz",
     "nationId": "columbia",
@@ -9969,7 +9969,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4055_bgsnow": {
+  {
     "id": "char_4055_bgsnow",
     "name": "Pozëmka",
     "nationId": "rhodes",
@@ -10004,7 +10004,7 @@
       "Позёмка"
     ]
   },
-  "char_1048_orchd2": {
+  {
     "id": "char_1048_orchd2",
     "name": "Violet Mizutsune Orchid",
     "nationId": "rhodes",
@@ -10037,7 +10037,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_430_fartth": {
+  {
     "id": "char_430_fartth",
     "name": "Fartooth",
     "nationId": "kazimierz",
@@ -10070,7 +10070,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4193_lemuen": {
+  {
     "id": "char_4193_lemuen",
     "name": "Lemuen",
     "nationId": "laterano",
@@ -10103,7 +10103,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_113_cqbw": {
+  {
     "id": "char_113_cqbw",
     "name": "W",
     "nationId": null,
@@ -10139,7 +10139,7 @@
     ],
     "aliases": []
   },
-  "char_300_phenxi": {
+  {
     "id": "char_300_phenxi",
     "name": "Fiammetta",
     "nationId": "laterano",
@@ -10172,7 +10172,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_197_poca": {
+  {
     "id": "char_197_poca",
     "name": "Rosa",
     "nationId": "ursus",
@@ -10210,7 +10210,7 @@
       "Роса"
     ]
   },
-  "char_2012_typhon": {
+  {
     "id": "char_2012_typhon",
     "name": "Typhon",
     "nationId": "sami",
@@ -10246,7 +10246,7 @@
     ],
     "aliases": []
   },
-  "char_391_rosmon": {
+  {
     "id": "char_391_rosmon",
     "name": "Rosmontis",
     "nationId": "rhodes",
@@ -10279,7 +10279,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1035_wisdel": {
+  {
     "id": "char_1035_wisdel",
     "name": "Wiš'adel",
     "nationId": null,
@@ -10313,7 +10313,7 @@
     ],
     "aliases": []
   },
-  "char_1013_chen2": {
+  {
     "id": "char_1013_chen2",
     "name": "Ch'en the Holungday",
     "nationId": "rhodes",
@@ -10347,7 +10347,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4117_ray": {
+  {
     "id": "char_4117_ray",
     "name": "Ray",
     "nationId": "rim",
@@ -10382,7 +10382,7 @@
     ],
     "aliases": []
   },
-  "char_4138_narant": {
+  {
     "id": "char_4138_narant",
     "name": "Narantuya",
     "nationId": "sargon",
@@ -10418,7 +10418,7 @@
     ],
     "aliases": []
   },
-  "char_112_siege": {
+  {
     "id": "char_112_siege",
     "name": "Siege",
     "nationId": "victoria",
@@ -10452,7 +10452,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_222_bpipe": {
+  {
     "id": "char_222_bpipe",
     "name": "Bagpipe",
     "nationId": "victoria",
@@ -10486,7 +10486,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_362_saga": {
+  {
     "id": "char_362_saga",
     "name": "Saga",
     "nationId": "higashi",
@@ -10522,7 +10522,7 @@
     ],
     "aliases": []
   },
-  "char_4026_vulpis": {
+  {
     "id": "char_4026_vulpis",
     "name": "Vulpisfoglia",
     "nationId": "siracusa",
@@ -10556,7 +10556,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_479_sleach": {
+  {
     "id": "char_479_sleach",
     "name": "Saileach",
     "nationId": "victoria",
@@ -10593,7 +10593,7 @@
     ],
     "aliases": []
   },
-  "char_420_flamtl": {
+  {
     "id": "char_420_flamtl",
     "name": "Flametail",
     "nationId": "kazimierz",
@@ -10627,7 +10627,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_608_acpion": {
+  {
     "id": "char_608_acpion",
     "name": "Tulip",
     "nationId": null,
@@ -10660,7 +10660,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_427_vigil": {
+  {
     "id": "char_427_vigil",
     "name": "Vigil",
     "nationId": "siracusa",
@@ -10696,7 +10696,7 @@
     ],
     "aliases": []
   },
-  "char_249_mlyss": {
+  {
     "id": "char_249_mlyss",
     "name": "Muelsyse",
     "nationId": "columbia",
@@ -10733,7 +10733,7 @@
     ],
     "aliases": []
   },
-  "char_4228_closur": {
+  {
     "id": "char_4228_closur",
     "name": "Closure",
     "nationId": "rhodes",
@@ -10766,7 +10766,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1045_svash2": {
+  {
     "id": "char_1045_svash2",
     "name": "SilverAsh the Reignfrost",
     "nationId": "kjerag",
@@ -10799,7 +10799,7 @@
     ],
     "aliases": []
   },
-  "char_4087_ines": {
+  {
     "id": "char_4087_ines",
     "name": "Ines",
     "nationId": null,
@@ -10835,7 +10835,7 @@
     ],
     "aliases": []
   },
-  "char_134_ifrit": {
+  {
     "id": "char_134_ifrit",
     "name": "Ifrit",
     "nationId": "columbia",
@@ -10869,7 +10869,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4229_aphris": {
+  {
     "id": "char_4229_aphris",
     "name": "Aphrissa",
     "nationId": "columbia",
@@ -10902,7 +10902,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_213_mostma": {
+  {
     "id": "char_213_mostma",
     "name": "Mostima",
     "nationId": "laterano",
@@ -10937,7 +10937,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_180_amgoat": {
+  {
     "id": "char_180_amgoat",
     "name": "Eyjafjalla",
     "nationId": "leithanien",
@@ -10971,7 +10971,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_2013_cerber": {
+  {
     "id": "char_2013_cerber",
     "name": "Ceobe",
     "nationId": "rhodes",
@@ -11008,7 +11008,7 @@
     ],
     "aliases": []
   },
-  "char_4027_heyak": {
+  {
     "id": "char_4027_heyak",
     "name": "Ho'olheyak",
     "nationId": "columbia",
@@ -11048,7 +11048,7 @@
     ],
     "aliases": []
   },
-  "char_4133_logos": {
+  {
     "id": "char_4133_logos",
     "name": "Logos",
     "nationId": "rhodes",
@@ -11084,7 +11084,7 @@
     ],
     "aliases": []
   },
-  "char_2015_dusk": {
+  {
     "id": "char_2015_dusk",
     "name": "Dusk",
     "nationId": "yan",
@@ -11120,7 +11120,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4141_marcil": {
+  {
     "id": "char_4141_marcil",
     "name": "Marcille",
     "nationId": null,
@@ -11154,7 +11154,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_612_accast": {
+  {
     "id": "char_612_accast",
     "name": "Pith",
     "nationId": null,
@@ -11187,7 +11187,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_472_pasngr": {
+  {
     "id": "char_472_pasngr",
     "name": "Passenger",
     "nationId": "sargon",
@@ -11223,7 +11223,7 @@
     ],
     "aliases": []
   },
-  "char_426_billro": {
+  {
     "id": "char_426_billro",
     "name": "Carnelian",
     "nationId": "leithanien",
@@ -11261,7 +11261,7 @@
     ],
     "aliases": []
   },
-  "char_4080_lin": {
+  {
     "id": "char_4080_lin",
     "name": "Lin",
     "nationId": "lungmen",
@@ -11297,7 +11297,7 @@
     ],
     "aliases": []
   },
-  "char_1046_sbell2": {
+  {
     "id": "char_1046_sbell2",
     "name": "Pramanix the Prerita",
     "nationId": "kjerag",
@@ -11330,7 +11330,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_377_gdglow": {
+  {
     "id": "char_377_gdglow",
     "name": "Goldenglow",
     "nationId": "victoria",
@@ -11365,7 +11365,7 @@
     ],
     "aliases": []
   },
-  "char_1038_whitw2": {
+  {
     "id": "char_1038_whitw2",
     "name": "Lappland the Decadenza",
     "nationId": "siracusa",
@@ -11400,7 +11400,7 @@
     ],
     "aliases": []
   },
-  "char_4046_ebnhlz": {
+  {
     "id": "char_4046_ebnhlz",
     "name": "Ebenholz",
     "nationId": "leithanien",
@@ -11434,7 +11434,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4226_veen": {
+  {
     "id": "char_4226_veen",
     "name": "Viy",
     "nationId": "ursus",
@@ -11468,7 +11468,7 @@
       "Вий"
     ]
   },
-  "char_4146_nymph": {
+  {
     "id": "char_4146_nymph",
     "name": "Nymph",
     "nationId": "rhodes",
@@ -11503,7 +11503,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1040_blaze2": {
+  {
     "id": "char_1040_blaze2",
     "name": "Blaze the Igniting Spark",
     "nationId": "rhodes",
@@ -11538,7 +11538,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4204_mantra": {
+  {
     "id": "char_4204_mantra",
     "name": "Mantra",
     "nationId": "rhodes",
@@ -11572,7 +11572,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_450_necras": {
+  {
     "id": "char_450_necras",
     "name": "Necrass",
     "nationId": "victoria",
@@ -11607,7 +11607,7 @@
     ],
     "aliases": []
   },
-  "char_206_gnosis": {
+  {
     "id": "char_206_gnosis",
     "name": "Gnosis",
     "nationId": "kjerag",
@@ -11643,7 +11643,7 @@
     ],
     "aliases": []
   },
-  "char_291_aglina": {
+  {
     "id": "char_291_aglina",
     "name": "Angelina",
     "nationId": "siracusa",
@@ -11683,7 +11683,7 @@
     ],
     "aliases": []
   },
-  "char_358_lisa": {
+  {
     "id": "char_358_lisa",
     "name": "Suzuran",
     "nationId": "siracusa",
@@ -11721,7 +11721,7 @@
     ],
     "aliases": []
   },
-  "char_614_acsupo": {
+  {
     "id": "char_614_acsupo",
     "name": "Raidian",
     "nationId": null,
@@ -11757,7 +11757,7 @@
     ],
     "aliases": []
   },
-  "char_1047_halo2": {
+  {
     "id": "char_1047_halo2",
     "name": "Astgenne the Lightchaser",
     "nationId": "columbia",
@@ -11794,7 +11794,7 @@
     ],
     "aliases": []
   },
-  "char_248_mgllan": {
+  {
     "id": "char_248_mgllan",
     "name": "Magallan",
     "nationId": "columbia",
@@ -11832,7 +11832,7 @@
     ],
     "aliases": []
   },
-  "char_4195_radian": {
+  {
     "id": "char_4195_radian",
     "name": "Raidian",
     "nationId": "rhodes",
@@ -11870,7 +11870,7 @@
     ],
     "aliases": []
   },
-  "char_1012_skadi2": {
+  {
     "id": "char_1012_skadi2",
     "name": "Skadi the Corrupting Heart",
     "nationId": "egir",
@@ -11905,7 +11905,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4134_cetsyr": {
+  {
     "id": "char_4134_cetsyr",
     "name": "Civilight Eterna",
     "nationId": "rhodes",
@@ -11941,7 +11941,7 @@
     ],
     "aliases": []
   },
-  "char_1031_slent2": {
+  {
     "id": "char_1031_slent2",
     "name": "Silence the Paradigmatic",
     "nationId": "columbia",
@@ -11976,7 +11976,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4202_haruka": {
+  {
     "id": "char_4202_haruka",
     "name": "Haruka",
     "nationId": "higashi",
@@ -12012,7 +12012,7 @@
     ],
     "aliases": []
   },
-  "char_2023_ling": {
+  {
     "id": "char_2023_ling",
     "name": "Ling",
     "nationId": "yan",
@@ -12048,7 +12048,7 @@
     ],
     "aliases": []
   },
-  "char_4072_ironmn": {
+  {
     "id": "char_4072_ironmn",
     "name": "Stainless",
     "nationId": "victoria",
@@ -12082,7 +12082,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4212_nasti": {
+  {
     "id": "char_4212_nasti",
     "name": "Nasti",
     "nationId": "columbia",
@@ -12115,7 +12115,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_245_cello": {
+  {
     "id": "char_245_cello",
     "name": "Virtuosa",
     "nationId": "laterano",
@@ -12152,7 +12152,7 @@
     ],
     "aliases": []
   },
-  "char_1042_phatm2": {
+  {
     "id": "char_1042_phatm2",
     "name": "Tragodia",
     "nationId": "victoria",
@@ -12188,7 +12188,7 @@
     ],
     "aliases": []
   },
-  "char_250_phatom": {
+  {
     "id": "char_250_phatom",
     "name": "Phantom",
     "nationId": "victoria",
@@ -12227,7 +12227,7 @@
     ],
     "aliases": []
   },
-  "char_1028_texas2": {
+  {
     "id": "char_1028_texas2",
     "name": "Texas the Omertosa",
     "nationId": "lungmen",
@@ -12263,7 +12263,7 @@
     ],
     "aliases": []
   },
-  "char_1029_yato2": {
+  {
     "id": "char_1029_yato2",
     "name": "Kirin R Yato",
     "nationId": "rhodes",
@@ -12297,7 +12297,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1502_crosly": {
+  {
     "id": "char_1502_crosly",
     "name": "Crownslayer",
     "nationId": "rhodes",
@@ -12330,7 +12330,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_615_acspec": {
+  {
     "id": "char_615_acspec",
     "name": "Misery",
     "nationId": null,
@@ -12363,7 +12363,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_322_lmlee": {
+  {
     "id": "char_322_lmlee",
     "name": "Lee",
     "nationId": "lungmen",
@@ -12398,7 +12398,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1033_swire2": {
+  {
     "id": "char_1033_swire2",
     "name": "Swire the Elegant Wit",
     "nationId": "lungmen",
@@ -12435,7 +12435,7 @@
     ],
     "aliases": []
   },
-  "char_400_weedy": {
+  {
     "id": "char_400_weedy",
     "name": "Weedy",
     "nationId": "rhodes",
@@ -12470,7 +12470,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_225_haak": {
+  {
     "id": "char_225_haak",
     "name": "Aak",
     "nationId": "lungmen",
@@ -12506,7 +12506,7 @@
     ],
     "aliases": []
   },
-  "char_1041_angel2": {
+  {
     "id": "char_1041_angel2",
     "name": "Exusiai the New Covenant",
     "nationId": "lungmen",
@@ -12541,7 +12541,7 @@
     ],
     "aliases": []
   },
-  "char_474_glady": {
+  {
     "id": "char_474_glady",
     "name": "Gladiia",
     "nationId": "egir",
@@ -12578,7 +12578,7 @@
     ],
     "aliases": []
   },
-  "char_437_mizuki": {
+  {
     "id": "char_437_mizuki",
     "name": "Mizuki",
     "nationId": "higashi",
@@ -12615,7 +12615,7 @@
     ],
     "aliases": []
   },
-  "char_4132_ascln": {
+  {
     "id": "char_4132_ascln",
     "name": "Ascalon",
     "nationId": "rhodes",
@@ -12649,7 +12649,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1023_ghost2": {
+  {
     "id": "char_1023_ghost2",
     "name": "Specter the Unchained",
     "nationId": "egir",
@@ -12684,7 +12684,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4048_doroth": {
+  {
     "id": "char_4048_doroth",
     "name": "Dorothy",
     "nationId": "columbia",
@@ -12721,7 +12721,7 @@
     ],
     "aliases": []
   },
-  "char_4123_ela": {
+  {
     "id": "char_4123_ela",
     "name": "Ela",
     "nationId": null,
@@ -12758,7 +12758,7 @@
     ],
     "aliases": []
   },
-  "char_2027_wang": {
+  {
     "id": "char_2027_wang",
     "name": "Wang",
     "nationId": "yan",
@@ -12791,7 +12791,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1039_thorn2": {
+  {
     "id": "char_1039_thorn2",
     "name": "Thorns the Lodestar",
     "nationId": "iberia",
@@ -12825,7 +12825,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_147_shining": {
+  {
     "id": "char_147_shining",
     "name": "Shining",
     "nationId": null,
@@ -12859,7 +12859,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_613_acmedc": {
+  {
     "id": "char_613_acmedc",
     "name": "Touch",
     "nationId": null,
@@ -12891,7 +12891,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_179_cgbird": {
+  {
     "id": "char_179_cgbird",
     "name": "Nightingale",
     "nationId": null,
@@ -12925,7 +12925,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_003_kalts": {
+  {
     "id": "char_003_kalts",
     "name": "Kal'tsit",
     "nationId": "rhodes",
@@ -12960,7 +12960,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4042_lumen": {
+  {
     "id": "char_4042_lumen",
     "name": "Lumen",
     "nationId": "iberia",
@@ -12994,7 +12994,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1016_agoat2": {
+  {
     "id": "char_1016_agoat2",
     "name": "Eyjafjalla the Hvít Aska",
     "nationId": "leithanien",
@@ -13027,7 +13027,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1020_reed2": {
+  {
     "id": "char_1020_reed2",
     "name": "Reed The Flame Shadow",
     "nationId": "victoria",
@@ -13064,7 +13064,7 @@
     ],
     "aliases": []
   },
-  "char_4056_titi": {
+  {
     "id": "char_4056_titi",
     "name": "Titi",
     "nationId": "sargon",
@@ -13098,7 +13098,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4179_monstr": {
+  {
     "id": "char_4179_monstr",
     "name": "Mon3tr",
     "nationId": "rhodes",
@@ -13132,7 +13132,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1052_kalts2": {
+  {
     "id": "char_1052_kalts2",
     "name": "Kal'tsit·Esperanta",
     "nationId": "rhodes",
@@ -13164,7 +13164,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_136_hsguma": {
+  {
     "id": "char_136_hsguma",
     "name": "Hoshiguma",
     "nationId": "lungmen",
@@ -13198,7 +13198,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_610_acfend": {
+  {
     "id": "char_610_acfend",
     "name": "Mechanist",
     "nationId": null,
@@ -13230,7 +13230,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_202_demkni": {
+  {
     "id": "char_202_demkni",
     "name": "Saria",
     "nationId": "columbia",
@@ -13267,7 +13267,7 @@
     ],
     "aliases": []
   },
-  "char_423_blemsh": {
+  {
     "id": "char_423_blemsh",
     "name": "Blemishine",
     "nationId": "kazimierz",
@@ -13304,7 +13304,7 @@
     ],
     "aliases": []
   },
-  "char_2025_shu": {
+  {
     "id": "char_2025_shu",
     "name": "Shu",
     "nationId": "yan",
@@ -13338,7 +13338,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_2014_nian": {
+  {
     "id": "char_2014_nian",
     "name": "Nian",
     "nationId": "yan",
@@ -13374,7 +13374,7 @@
     ],
     "aliases": []
   },
-  "char_311_mudrok": {
+  {
     "id": "char_311_mudrok",
     "name": "Mudrock",
     "nationId": "rhodes",
@@ -13409,7 +13409,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4065_judge": {
+  {
     "id": "char_4065_judge",
     "name": "Penance",
     "nationId": "siracusa",
@@ -13443,7 +13443,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_416_zumama": {
+  {
     "id": "char_416_zumama",
     "name": "Eunectes",
     "nationId": "sargon",
@@ -13481,7 +13481,7 @@
     ],
     "aliases": []
   },
-  "char_4039_horn": {
+  {
     "id": "char_4039_horn",
     "name": "Horn",
     "nationId": "victoria",
@@ -13515,7 +13515,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1034_jesca2": {
+  {
     "id": "char_1034_jesca2",
     "name": "Jessica the Liberated",
     "nationId": "columbia",
@@ -13550,7 +13550,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4194_rmixer": {
+  {
     "id": "char_4194_rmixer",
     "name": "Sankta Miksaparato",
     "nationId": "laterano",
@@ -13585,7 +13585,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4230_mcnist": {
+  {
     "id": "char_4230_mcnist",
     "name": "Mechanist",
     "nationId": "rhodes",
@@ -13619,7 +13619,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_2026_yu": {
+  {
     "id": "char_2026_yu",
     "name": "Yu",
     "nationId": "yan",
@@ -13652,7 +13652,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1044_hsgma2": {
+  {
     "id": "char_1044_hsgma2",
     "name": "Hoshiguma the Breacher",
     "nationId": "lungmen",
@@ -13687,7 +13687,7 @@
     ],
     "aliases": []
   },
-  "char_264_f12yin": {
+  {
     "id": "char_264_f12yin",
     "name": "Mountain",
     "nationId": "columbia",
@@ -13723,7 +13723,7 @@
     ],
     "aliases": []
   },
-  "char_2024_chyue": {
+  {
     "id": "char_2024_chyue",
     "name": "Chongyue",
     "nationId": "yan",
@@ -13758,7 +13758,7 @@
     ],
     "aliases": []
   },
-  "char_4037_demetr": {
+  {
     "id": "char_4037_demetr",
     "name": "Bellone",
     "nationId": "siracusa",
@@ -13791,7 +13791,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_172_svrash": {
+  {
     "id": "char_172_svrash",
     "name": "SilverAsh",
     "nationId": "kjerag",
@@ -13824,7 +13824,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_293_thorns": {
+  {
     "id": "char_293_thorns",
     "name": "Thorns",
     "nationId": "iberia",
@@ -13858,7 +13858,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4082_qiubai": {
+  {
     "id": "char_4082_qiubai",
     "name": "Qiubai",
     "nationId": "yan",
@@ -13894,7 +13894,7 @@
     ],
     "aliases": []
   },
-  "char_4182_oblvns": {
+  {
     "id": "char_4182_oblvns",
     "name": "Togawa Sakiko",
     "nationId": null,
@@ -13926,7 +13926,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_617_sharp2": {
+  {
     "id": "char_617_sharp2",
     "name": "Lord/Sharp",
     "nationId": null,
@@ -13958,7 +13958,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4088_hodrer": {
+  {
     "id": "char_4088_hodrer",
     "name": "Hoederer",
     "nationId": null,
@@ -13991,7 +13991,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4145_ulpia": {
+  {
     "id": "char_4145_ulpia",
     "name": "Ulpianus",
     "nationId": "egir",
@@ -14024,7 +14024,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4058_pepe": {
+  {
     "id": "char_4058_pepe",
     "name": "Pepe",
     "nationId": "sargon",
@@ -14058,7 +14058,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1051_headb2": {
+  {
     "id": "char_1051_headb2",
     "name": "Zima the Raging Tide",
     "nationId": "ursus",
@@ -14091,7 +14091,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_010_chen": {
+  {
     "id": "char_010_chen",
     "name": "Ch'en",
     "nationId": "lungmen",
@@ -14125,7 +14125,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4009_irene": {
+  {
     "id": "char_4009_irene",
     "name": "Irene",
     "nationId": "iberia",
@@ -14163,7 +14163,7 @@
     ],
     "aliases": []
   },
-  "char_4116_blkkgt": {
+  {
     "id": "char_4116_blkkgt",
     "name": "Degenbrecher",
     "nationId": "kjerag",
@@ -14200,7 +14200,7 @@
     ],
     "aliases": []
   },
-  "char_017_huang": {
+  {
     "id": "char_017_huang",
     "name": "Blaze",
     "nationId": "rhodes",
@@ -14234,7 +14234,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1026_gvial2": {
+  {
     "id": "char_1026_gvial2",
     "name": "Gavial the Invincible",
     "nationId": "rhodes",
@@ -14271,7 +14271,7 @@
     ],
     "aliases": []
   },
-  "char_350_surtr": {
+  {
     "id": "char_350_surtr",
     "name": "Surtr",
     "nationId": "rhodes",
@@ -14304,7 +14304,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4098_vvana": {
+  {
     "id": "char_4098_vvana",
     "name": "Viviana",
     "nationId": "leithanien",
@@ -14340,7 +14340,7 @@
     ],
     "aliases": []
   },
-  "char_1019_siege2": {
+  {
     "id": "char_1019_siege2",
     "name": "Vina Victoria",
     "nationId": "victoria",
@@ -14376,7 +14376,7 @@
     ],
     "aliases": []
   },
-  "char_1050_chen3": {
+  {
     "id": "char_1050_chen3",
     "name": "Ch'en the Dawnstreak",
     "nationId": "yan",
@@ -14409,7 +14409,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_188_helage": {
+  {
     "id": "char_188_helage",
     "name": "Hellagur",
     "nationId": "ursus",
@@ -14443,7 +14443,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4121_zuole": {
+  {
     "id": "char_4121_zuole",
     "name": "Zuo Le",
     "nationId": "yan",
@@ -14477,7 +14477,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_485_pallas": {
+  {
     "id": "char_485_pallas",
     "name": "Pallas",
     "nationId": "minos",
@@ -14511,7 +14511,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1014_nearl2": {
+  {
     "id": "char_1014_nearl2",
     "name": "Nearl the Radiant Knight",
     "nationId": "kazimierz",
@@ -14544,7 +14544,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4011_lessng": {
+  {
     "id": "char_4011_lessng",
     "name": "Lessing",
     "nationId": "leithanien",
@@ -14577,7 +14577,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_609_acguad": {
+  {
     "id": "char_609_acguad",
     "name": "Sharp",
     "nationId": null,
@@ -14609,7 +14609,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1032_excu2": {
+  {
     "id": "char_1032_excu2",
     "name": "Executor the Ex Foedere",
     "nationId": "laterano",
@@ -14642,7 +14642,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_4010_etlchi": {
+  {
     "id": "char_4010_etlchi",
     "name": "Entelechia",
     "nationId": "rhodes",
@@ -14678,7 +14678,7 @@
     ],
     "aliases": []
   },
-  "char_4064_mlynar": {
+  {
     "id": "char_4064_mlynar",
     "name": "Młynar",
     "nationId": "kazimierz",
@@ -14711,7 +14711,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_1043_leizi2": {
+  {
     "id": "char_1043_leizi2",
     "name": "Leizi the Thunderbringer",
     "nationId": "yan",
@@ -14746,7 +14746,7 @@
     ],
     "aliases": []
   },
-  "char_4214_cairn": {
+  {
     "id": "char_4214_cairn",
     "name": "Cairn",
     "nationId": "columbia",
@@ -14779,7 +14779,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_230_savage": {
+  {
     "id": "char_230_savage",
     "name": "Savage",
     "nationId": "rim",
@@ -14812,7 +14812,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_282_catap": {
+  {
     "id": "char_282_catap",
     "name": "Catapult",
     "nationId": "rhodes",
@@ -14842,7 +14842,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_283_midn": {
+  {
     "id": "char_283_midn",
     "name": "Midnight",
     "nationId": "rhodes",
@@ -14872,7 +14872,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_137_brownb": {
+  {
     "id": "char_137_brownb",
     "name": "Beehunter",
     "nationId": "ursus",
@@ -14904,7 +14904,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_347_jaksel": {
+  {
     "id": "char_347_jaksel",
     "name": "Jackie",
     "nationId": "columbia",
@@ -14936,7 +14936,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_164_nightm": {
+  {
     "id": "char_164_nightm",
     "name": "Nightmare",
     "nationId": "victoria",
@@ -14970,7 +14970,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_220_grani": {
+  {
     "id": "char_220_grani",
     "name": "Grani",
     "nationId": "victoria",
@@ -15003,7 +15003,7 @@
     "debuffs": [],
     "aliases": []
   },
-  "char_263_skadi": {
+  {
     "id": "char_263_skadi",
     "name": "Skadi",
     "nationId": "egir",
@@ -15037,4 +15037,4 @@
     "debuffs": [],
     "aliases": []
   }
-}
+]
