@@ -1,0 +1,82 @@
+[
+    {
+        "id": "faction:lee+pinus",
+        "type": "faction",
+        "match": "any",
+        "conditions": [
+            {
+                "field": "teamId",
+                "comparison": "eq",
+                "value": "lee"
+            },
+            {
+                "field": "groupId",
+                "comparison": "eq",
+                "value": "pinus"
+            }
+        ],
+        "label": "Pinus Sylvestris or Lee’s Detective Agency"
+    },
+    {
+        "id": "profession:guard",
+        "type": "profession",
+        "match": "all",
+        "conditions": [
+            {
+                "field": "profession",
+                "comparison": "eq",
+                "value": "Guard"
+            }
+        ],
+        "label": "Guard"
+    },
+    {
+        "id": "maxHp:gte:2500",
+        "type": "stat",
+        "match": "all",
+        "conditions": [
+            {
+                "field": "maxHp",
+                "comparison": "gte",
+                "value": 2500
+            }
+        ],
+        "label": "Max HP ≥ 2500"
+    },
+    {
+        "id": "oripathy:stage2",
+        "type": "oripathy",
+        "match": "all",
+        "conditions": [
+            {
+                "field": "bloodOriginiumDensity",
+                "comparison": "gte",
+                "value": 0.30
+            },
+            {
+                "field": "bloodOriginiumDensity",
+                "comparison": "lt",
+                "value": 0.50
+            },
+            {
+                "field": "infection_status",
+                "comparison": "eq",
+                "value": true
+            }
+        ],
+        "label": "Stage II Oripathy"
+    },
+    {
+        "id": "module:y",
+        "type": "module",
+        "match": "all",
+        "conditions": [
+            {
+                "field": "modules",
+                "comparison": "includes",
+                "value": "Y"
+            }
+        ],
+        "label": "Has a Y Module"
+    }
+]
