@@ -1,0 +1,42 @@
+[
+    {
+        "id": "race:Cautus",
+        "type": [
+            "race"
+        ],
+        "match": "any",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Cautus"
+            },
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Cautus/Chimera"
+            }
+        ],
+        "label": "Cautus"
+    },
+    {
+        "id": "race:Perro",
+        "type": [
+            "race"
+        ],
+        "match": "any",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Perro"
+            },
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Perro (reportedly)"
+            }
+        ],
+        "label": "Perro"
+    }
+]

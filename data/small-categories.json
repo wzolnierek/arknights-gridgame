@@ -1,0 +1,1458 @@
+[
+    {
+        "id": "subProfessionId:Flinger",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Flinger"
+            }
+        ],
+        "label": "Flinger",
+        "count": 4
+    },
+    {
+        "id": "subProfessionId:Blast Caster",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Blast Caster"
+            }
+        ],
+        "label": "Blast Caster",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Chain Caster",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Chain Caster"
+            }
+        ],
+        "label": "Chain Caster",
+        "count": 4
+    },
+    {
+        "id": "subProfessionId:Spreadshooter",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Spreadshooter"
+            }
+        ],
+        "label": "Spreadshooter",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Loopshooter",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Loopshooter"
+            }
+        ],
+        "label": "Loopshooter",
+        "count": 3
+    },
+    {
+        "id": "subProfessionId:Standard Bearer",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Standard Bearer"
+            }
+        ],
+        "label": "Standard Bearer",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Soloblade",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Soloblade"
+            }
+        ],
+        "label": "Soloblade",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Crusher",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Crusher"
+            }
+        ],
+        "label": "Crusher",
+        "count": 4
+    },
+    {
+        "id": "subProfessionId:Reaper",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Reaper"
+            }
+        ],
+        "label": "Reaper",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Liberator",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Liberator"
+            }
+        ],
+        "label": "Liberator",
+        "count": 4
+    },
+    {
+        "id": "subProfessionId:Merchant",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Merchant"
+            }
+        ],
+        "label": "Merchant",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Hookmaster",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Hookmaster"
+            }
+        ],
+        "label": "Hookmaster",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Dispatcher",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Dispatcher"
+            }
+        ],
+        "label": "Dispatcher",
+        "count": 1
+    },
+    {
+        "id": "subProfessionId:Multi-target Medic",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Multi-target Medic"
+            }
+        ],
+        "label": "Multi-target Medic",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Therapist",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Therapist"
+            }
+        ],
+        "label": "Therapist",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Wandering Medic",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Wandering Medic"
+            }
+        ],
+        "label": "Wandering Medic",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Juggernaut",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Juggernaut"
+            }
+        ],
+        "label": "Juggernaut",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Push Stroker",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Push Stroker"
+            }
+        ],
+        "label": "Push Stroker",
+        "count": 4
+    },
+    {
+        "id": "subProfessionId:Skyranger",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Skyranger"
+            }
+        ],
+        "label": "Skyranger",
+        "count": 3
+    },
+    {
+        "id": "subProfessionId:Strategist",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Strategist"
+            }
+        ],
+        "label": "Strategist",
+        "count": 2
+    },
+    {
+        "id": "subProfessionId:Earthshaker",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Earthshaker"
+            }
+        ],
+        "label": "Earthshaker",
+        "count": 4
+    },
+    {
+        "id": "subProfessionId:Primal Guard",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Primal Guard"
+            }
+        ],
+        "label": "Primal Guard",
+        "count": 3
+    },
+    {
+        "id": "subProfessionId:Mercenary",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Mercenary"
+            }
+        ],
+        "label": "Mercenary",
+        "count": 2
+    },
+    {
+        "id": "subProfessionId:Skybreaker",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Skybreaker"
+            }
+        ],
+        "label": "Skybreaker",
+        "count": 2
+    },
+    {
+        "id": "subProfessionId:Incantation Medic",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Incantation Medic"
+            }
+        ],
+        "label": "Incantation Medic",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Phalanx Caster",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Phalanx Caster"
+            }
+        ],
+        "label": "Phalanx Caster",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Shaper Caster",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Shaper Caster"
+            }
+        ],
+        "label": "Shaper Caster",
+        "count": 2
+    },
+    {
+        "id": "subProfessionId:Chain Medic",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Chain Medic"
+            }
+        ],
+        "label": "Chain Medic",
+        "count": 4
+    },
+    {
+        "id": "subProfessionId:Watchman",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Watchman"
+            }
+        ],
+        "label": "Watchman",
+        "count": 2
+    },
+    {
+        "id": "subProfessionId:Fortress",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Fortress"
+            }
+        ],
+        "label": "Fortress",
+        "count": 3
+    },
+    {
+        "id": "subProfessionId:Duelist",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Duelist"
+            }
+        ],
+        "label": "Duelist",
+        "count": 3
+    },
+    {
+        "id": "subProfessionId:Hunter",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Hunter"
+            }
+        ],
+        "label": "Hunter",
+        "count": 3
+    },
+    {
+        "id": "subProfessionId:Geek",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Geek"
+            }
+        ],
+        "label": "Geek",
+        "count": 3
+    },
+    {
+        "id": "subProfessionId:Hexer",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Hexer"
+            }
+        ],
+        "label": "Hexer",
+        "count": 5
+    },
+    {
+        "id": "subProfessionId:Supportive Ranger",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Supportive Ranger"
+            }
+        ],
+        "label": "Supportive Ranger",
+        "count": 3
+    },
+    {
+        "id": "subProfessionId:Alchemist",
+        "type": [
+            "subProfessionId"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "subProfessionId",
+                "comparison": "eq",
+                "value": "Alchemist"
+            }
+        ],
+        "label": "Alchemist",
+        "count": 3
+    },
+    {
+        "id": "tagList:Starter",
+        "type": [
+            "tagList"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "tagList",
+                "comparison": "includes",
+                "value": "Starter"
+            }
+        ],
+        "label": "Starter",
+        "count": 5
+    },
+    {
+        "id": "tagList:Soar",
+        "type": [
+            "tagList"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "tagList",
+                "comparison": "includes",
+                "value": "Soar"
+            }
+        ],
+        "label": "Soar",
+        "count": 4
+    },
+    {
+        "id": "modules:RA-A",
+        "type": [
+            "modules"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "modules",
+                "comparison": "includes",
+                "value": "RA-A"
+            }
+        ],
+        "label": "RA-A",
+        "count": 4
+    },
+    {
+        "id": "modules:SO-A",
+        "type": [
+            "modules"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "modules",
+                "comparison": "includes",
+                "value": "SO-A"
+            }
+        ],
+        "label": "SO-A",
+        "count": 2
+    },
+    {
+        "id": "modules:SO-B",
+        "type": [
+            "modules"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "modules",
+                "comparison": "includes",
+                "value": "SO-B"
+            }
+        ],
+        "label": "SO-B",
+        "count": 1
+    },
+    {
+        "id": "debuffs:Critically Wounded",
+        "type": [
+            "debuffs"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "debuffs",
+                "comparison": "includes",
+                "value": "Critically Wounded"
+            }
+        ],
+        "label": "Critically Wounded",
+        "count": 3
+    },
+    {
+        "id": "debuffs:Weightless",
+        "type": [
+            "debuffs"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "debuffs",
+                "comparison": "includes",
+                "value": "Weightless"
+            }
+        ],
+        "label": "Weightless",
+        "count": 2
+    },
+    {
+        "id": "faction:pinus",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "groupId",
+                "comparison": "eq",
+                "value": "pinus"
+            }
+        ],
+        "label": "pinus",
+        "count": 5
+    },
+    {
+        "id": "faction:karlan",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "groupId",
+                "comparison": "eq",
+                "value": "karlan"
+            }
+        ],
+        "label": "karlan",
+        "count": 5
+    },
+    {
+        "id": "faction:sweep",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "groupId",
+                "comparison": "eq",
+                "value": "sweep"
+            }
+        ],
+        "label": "sweep",
+        "count": 3
+    },
+    {
+        "id": "faction:siesta",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "groupId",
+                "comparison": "eq",
+                "value": "siesta"
+            }
+        ],
+        "label": "siesta",
+        "count": 4
+    },
+    {
+        "id": "faction:lgd",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "groupId",
+                "comparison": "eq",
+                "value": "lgd"
+            }
+        ],
+        "label": "lgd",
+        "count": 4
+    },
+    {
+        "id": "faction:glasgow",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "groupId",
+                "comparison": "eq",
+                "value": "glasgow"
+            }
+        ],
+        "label": "glasgow",
+        "count": 4
+    },
+    {
+        "id": "faction:tara",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "groupId",
+                "comparison": "eq",
+                "value": "tara"
+            }
+        ],
+        "label": "tara",
+        "count": 4
+    },
+    {
+        "id": "faction:babel",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "groupId",
+                "comparison": "eq",
+                "value": "babel"
+            }
+        ],
+        "label": "babel",
+        "count": 4
+    },
+    {
+        "id": "faction:sees",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "teamId",
+                "comparison": "eq",
+                "value": "sees"
+            }
+        ],
+        "label": "sees",
+        "count": 4
+    },
+    {
+        "id": "faction:reserve1",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "teamId",
+                "comparison": "eq",
+                "value": "reserve1"
+            }
+        ],
+        "label": "reserve1",
+        "count": 5
+    },
+    {
+        "id": "faction:reserve4",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "teamId",
+                "comparison": "eq",
+                "value": "reserve4"
+            }
+        ],
+        "label": "reserve4",
+        "count": 5
+    },
+    {
+        "id": "faction:chiave",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "teamId",
+                "comparison": "eq",
+                "value": "chiave"
+            }
+        ],
+        "label": "chiave",
+        "count": 3
+    },
+    {
+        "id": "faction:laios",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "teamId",
+                "comparison": "eq",
+                "value": "laios"
+            }
+        ],
+        "label": "laios",
+        "count": 4
+    },
+    {
+        "id": "faction:mujica",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "teamId",
+                "comparison": "eq",
+                "value": "mujica"
+            }
+        ],
+        "label": "mujica",
+        "count": 5
+    },
+    {
+        "id": "faction:followers",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "teamId",
+                "comparison": "eq",
+                "value": "followers"
+            }
+        ],
+        "label": "followers",
+        "count": 3
+    },
+    {
+        "id": "faction:lee",
+        "type": [
+            "faction"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "teamId",
+                "comparison": "eq",
+                "value": "lee"
+            }
+        ],
+        "label": "lee",
+        "count": 4
+    },
+    {
+        "id": "gender:Unknown",
+        "type": [
+            "gender"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "gender",
+                "comparison": "eq",
+                "value": "Unknown"
+            }
+        ],
+        "label": "Unknown",
+        "count": 2
+    },
+    {
+        "id": "gender:Conviction",
+        "type": [
+            "gender"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "gender",
+                "comparison": "eq",
+                "value": "Conviction"
+            }
+        ],
+        "label": "Conviction",
+        "count": 1
+    },
+    {
+        "id": "gender:Lady",
+        "type": [
+            "gender"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "gender",
+                "comparison": "eq",
+                "value": "Lady"
+            }
+        ],
+        "label": "Lady",
+        "count": 1
+    },
+    {
+        "id": "gender:Undisclosed",
+        "type": [
+            "gender"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "gender",
+                "comparison": "eq",
+                "value": "Undisclosed"
+            }
+        ],
+        "label": "Undisclosed",
+        "count": 1
+    },
+    {
+        "id": "race:Perro (reportedly)",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Perro (reportedly)"
+            }
+        ],
+        "label": "Perro (reportedly)",
+        "count": 1
+    },
+    {
+        "id": "race:Durin",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Durin"
+            }
+        ],
+        "label": "Durin",
+        "count": 5
+    },
+    {
+        "id": "race:Reproba",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Reproba"
+            }
+        ],
+        "label": "Reproba",
+        "count": 3
+    },
+    {
+        "id": "race:Anaty",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Anaty"
+            }
+        ],
+        "label": "Anaty",
+        "count": 5
+    },
+    {
+        "id": "race:Itra",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Itra"
+            }
+        ],
+        "label": "Itra",
+        "count": 1
+    },
+    {
+        "id": "race:Archosauria",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Archosauria"
+            }
+        ],
+        "label": "Archosauria",
+        "count": 4
+    },
+    {
+        "id": "race:Petram",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Petram"
+            }
+        ],
+        "label": "Petram",
+        "count": 1
+    },
+    {
+        "id": "race:Cerato",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Cerato"
+            }
+        ],
+        "label": "Cerato",
+        "count": 1
+    },
+    {
+        "id": "race:Draco",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Draco"
+            }
+        ],
+        "label": "Draco",
+        "count": 4
+    },
+    {
+        "id": "race:Half-foot (Self-declared)",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Half-foot (Self-declared)"
+            }
+        ],
+        "label": "Half-foot (Self-declared)",
+        "count": 1
+    },
+    {
+        "id": "race:Tall-man (Self-declared)",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Tall-man (Self-declared)"
+            }
+        ],
+        "label": "Tall-man (Self-declared)",
+        "count": 1
+    },
+    {
+        "id": "race:Anura",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Anura"
+            }
+        ],
+        "label": "Anura",
+        "count": 1
+    },
+    {
+        "id": "race:Anasa",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Anasa"
+            }
+        ],
+        "label": "Anasa",
+        "count": 1
+    },
+    {
+        "id": "race:Cautus/Chimera",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Cautus/Chimera"
+            }
+        ],
+        "label": "Cautus/Chimera",
+        "count": 3
+    },
+    {
+        "id": "race:Kylin",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Kylin"
+            }
+        ],
+        "label": "Kylin",
+        "count": 2
+    },
+    {
+        "id": "race:Pilosa",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Pilosa"
+            }
+        ],
+        "label": "Pilosa",
+        "count": 1
+    },
+    {
+        "id": "race:Dwarf (Self-declared)",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Dwarf (Self-declared)"
+            }
+        ],
+        "label": "Dwarf (Self-declared)",
+        "count": 1
+    },
+    {
+        "id": "race:Manticore",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Manticore"
+            }
+        ],
+        "label": "Manticore",
+        "count": 1
+    },
+    {
+        "id": "race:Lung",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Lung"
+            }
+        ],
+        "label": "Lung",
+        "count": 4
+    },
+    {
+        "id": "race:Aslan",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Aslan"
+            }
+        ],
+        "label": "Aslan",
+        "count": 2
+    },
+    {
+        "id": "race:Elf",
+        "type": [
+            "race"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "race",
+                "comparison": "eq",
+                "value": "Elf"
+            }
+        ],
+        "label": "Elf",
+        "count": 2
+    },
+    {
+        "id": "placeOfBirth:Rhodes Island",
+        "type": [
+            "placeOfBirth"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "placeOfBirth",
+                "comparison": "eq",
+                "value": "Rhodes Island"
+            }
+        ],
+        "label": "Rhodes Island",
+        "count": 5
+    },
+    {
+        "id": "placeOfBirth:Vouivre",
+        "type": [
+            "placeOfBirth"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "placeOfBirth",
+                "comparison": "eq",
+                "value": "Vouivre"
+            }
+        ],
+        "label": "Vouivre",
+        "count": 2
+    },
+    {
+        "id": "placeOfBirth:Siesta",
+        "type": [
+            "placeOfBirth"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "placeOfBirth",
+                "comparison": "eq",
+                "value": "Siesta"
+            }
+        ],
+        "label": "Siesta",
+        "count": 3
+    },
+    {
+        "id": "placeOfBirth:Eastern Continent (Self-declared)",
+        "type": [
+            "placeOfBirth"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "placeOfBirth",
+                "comparison": "eq",
+                "value": "Eastern Continent (Self-declared)"
+            }
+        ],
+        "label": "Eastern Continent (Self-declared)",
+        "count": 1
+    },
+    {
+        "id": "placeOfBirth:Northern Continent (Self-declared)",
+        "type": [
+            "placeOfBirth"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "placeOfBirth",
+                "comparison": "eq",
+                "value": "Northern Continent (Self-declared)"
+            }
+        ],
+        "label": "Northern Continent (Self-declared)",
+        "count": 2
+    },
+    {
+        "id": "placeOfBirth:Durin",
+        "type": [
+            "placeOfBirth"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "placeOfBirth",
+                "comparison": "eq",
+                "value": "Durin"
+            }
+        ],
+        "label": "Durin",
+        "count": 1
+    },
+    {
+        "id": "placeOfBirth:Izganda (Self-declared)",
+        "type": [
+            "placeOfBirth"
+        ],
+        "match": "all",
+        "conditions": [
+            {
+                "field": "placeOfBirth",
+                "comparison": "eq",
+                "value": "Izganda (Self-declared)"
+            }
+        ],
+        "label": "Izganda (Self-declared)",
+        "count": 1
+    }
+]
