@@ -27,7 +27,7 @@ function compareCondition(operatorValue, condition) {
     }
 }
 
-function checkWholeCategory(operator, category) {
+export function checkWholeCategory(operator, category) {
     if (category.match === "all") {
         return category.conditions.every((con) =>
             checkOneCondition(operator, con),

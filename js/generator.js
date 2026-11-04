@@ -62,4 +62,4 @@ function generateCategories() {
     return { categoriesJson, smallCat };
 }
 // console.log(JSON.stringify(generateCategories().categoriesJson));
-console.log(JSON.stringify(generateCategories().smallCat));
+// console.log(JSON.stringify(generateCategories().smallCat));
